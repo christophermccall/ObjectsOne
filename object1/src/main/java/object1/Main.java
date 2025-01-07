@@ -8,7 +8,9 @@ public class Main {
         Logger logger=Logger.getLogger(Main.class.getName());
         logger.info("This is a module-using Hello World!");
         Person person2 = new Person("Chris",30, 187);
-        System.out.println(person2);
+        Chair fancyChair = new Chair("leather", "none",67,100,6 );
+
+        System.out.println(fancyChair.getHeight());
     }
 
 }
