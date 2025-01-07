@@ -45,7 +45,7 @@ In this example, we define a class called "Person" with two properties: "name" a
 
 _What might that "look" if you drew a quick diagram of it? Here is your first UML diagram._
 
-![Person Object](./personUML.png)
+![Person Object](../personUML.png)
 
 ### Now, create code in this project...
 
